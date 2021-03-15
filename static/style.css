@@ -1,0 +1,17 @@
+.card-header {
+    background-color: rgb(236, 140, 140);
+}
+
+.card-body {
+    background-color: cornsilk;
+}
+
+.card-footer {
+    background-color: rgb(236, 140, 140) ;
+}
+
+
+ul {
+    list-style-type: none;
+
+}
